@@ -1,0 +1,1 @@
+Distributed computing studies distributed systems. A distributed system consists of multiple autonomous computers that communicate through a computer network. They interact with each other in order to achieve a common goal.

@@ -1,0 +1,1 @@
+Parallel computing is a type of computation in which many calculations are carried out simultaneously. It operates on the principle that large problems can often be divided into smaller ones, which are then solved at the same time.

@@ -1,0 +1,1 @@
+Groq is an AI infrastructure company that builds ultra-fast processors called LPUs (Language Processing Units). It is designed specifically for large language models to provide inference at extreme speeds.
